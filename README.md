@@ -29,5 +29,3 @@ size_t myhash(const T &x): Returns the index of the vector entry where x should 
 unsigned long prime_below (unsigned long): Determines the proper prime numbers used in setting up the vector size.
 void setPrimes(vector<unsigned long>&): Determines the proper prime numbers used in setting up the vector size.
 ```
-
-### 
